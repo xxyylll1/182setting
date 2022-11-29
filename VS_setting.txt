@@ -1,0 +1,35 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "matlab.mlintpath": "/opt/matlab/R2022a/bin/glnxa64/mlint",
+    "matlab.matlabpath": "/opt/matlab/R2022a/bin/glnxa64/MATLAB",
+    "matlab.linterEncoding": "utf8",
+
+    "code-runner.executorMap": {
+        "matlab": "cd $dir && matlab -nodesktop -nosplash -logfile tmp.log -batch $fileNameWithoutExt"
+    },
+    "files.associations": {
+        "*.m": "matlab"
+    },
+    "code-runner.runInTerminal": true,
+    "[matlab]" : {
+        "files.encoding": "utf8",
+    },
+    "files.autoGuessEncoding": true,
+    "explorer.confirmDelete": false,
+    "remote.SSH.remotePlatform": {
+        "192.168.0.179": "linux",
+        "192.168.0.180": "linux",
+        "127.0.0.1": "linux",
+        "192.168.0.169": "linux",
+        "VM_Ray": "windows",
+        "140.136.151.183": "windows",
+        "mypi4": "linux",
+        "140.136.151.182": "linux"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "remote.SSH.suppressWindowsSshWarning": true,
+    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
+    "git.confirmSync": false,
+    "window.zoomLevel": -1
+    
+}
