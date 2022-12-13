@@ -24,3 +24,4 @@ sudo apt-get -y install openssh-server
 sudo nano /etc/ssh/sshd_config
 sudo /etc/init.d/ssh restart
 ssh-keygen
+sudo apt --fix-broken install -y
