@@ -16,16 +16,6 @@
     },
     "files.autoGuessEncoding": true,
     "explorer.confirmDelete": false,
-    "remote.SSH.remotePlatform": {
-        "192.168.0.179": "linux",
-        "192.168.0.180": "linux",
-        "127.0.0.1": "linux",
-        "192.168.0.169": "linux",
-        "VM_Ray": "windows",
-        "140.136.151.183": "windows",
-        "mypi4": "linux",
-        "140.136.151.182": "linux"
-    },
     "explorer.confirmDragAndDrop": false,
     "remote.SSH.suppressWindowsSshWarning": true,
     "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
