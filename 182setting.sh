@@ -18,6 +18,8 @@ sudo apt -y install bash-completion
 sudo apt-get -y install wget
 sudo apt-get -y install nano
 sudo apt -y install net-tools
+sudo apt install p7zip-full p7zip-rar
+sudo apt install xdg-utils
 sudo apt --fix-broken install -y
 
 cd ~
