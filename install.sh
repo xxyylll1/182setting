@@ -1,3 +1,5 @@
+sudo apt -y update
+sudo apt-get -y install wget
 cd ~
 cd Downloads/
 wget -c https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
